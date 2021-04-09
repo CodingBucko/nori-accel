@@ -1,7 +1,4 @@
-﻿/*
-Name: Rodrigo Ratto
-Student ID: 89526973
-*/
+﻿//Rodrigo Ratto
 
 #pragma once
 
@@ -9,14 +6,6 @@ Student ID: 89526973
 #include <stack>
 
 NORI_NAMESPACE_BEGIN
-
-
-/**
- * \brief Acceleration data structure for ray intersection queries
- *
- * The current implementation falls back to a brute force loop
- * through the geometry.
- */
 
 struct SplitPlane {
     SplitPlane() {};
