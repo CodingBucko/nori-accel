@@ -1,3 +1,13 @@
+This repository contains my KD-tree implementation utilizing the Nori codebase described bellow. The KD-tree construction utilizes a SAH heuristic and largely follows the
+algorithms provided by the paper “On building fast kd-Trees for Ray Tracing, and on doing that
+in O(N log N)” which will be linked at the bottom of this report. Similarly my traversal utilizes a
+standard kd traversal given by the paper entitled “Understanding the Efficiency of kD-tree
+Ray-Traversal Techniques over a GPGPU Architecture”.
+
+http://www.irisa.fr/prive/kadi/Sujets_CTR/kadi/Kadi_sujet2_article_Kdtree.pdf
+https://www.cin.ufpe.br/~als3/saap/ArturLiraDosSantos-ArtigoIJPP.pdf
+
+
 [![CS440 Banner](https://rgl.s3.eu-central-1.amazonaws.com/media/uploads/wjakob/2017/02/16/cs440-logo_web.jpg)](https://rgl.s3.eu-central-1.amazonaws.com/media/uploads/wjakob/2017/02/20/cs440-rgl.jpg)
 
 ## Nori Version 2
