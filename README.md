@@ -6,6 +6,10 @@ in O(N log N)” which will be linked at the bottom of this report. Similarly my
 standard kd traversal given by the paper entitled “Understanding the Efficiency of kD-tree
 Ray-Traversal Techniques over a GPGPU Architecture”.
 
+
+
+<a href="https://ibb.co/rs0hzVB"><img src="https://i.ibb.co/RybKsqX/AJAX3.png" alt="AJAX3" border="0" /></a>
+
 http://www.irisa.fr/prive/kadi/Sujets_CTR/kadi/Kadi_sujet2_article_Kdtree.pdf
 https://www.cin.ufpe.br/~als3/saap/ArturLiraDosSantos-ArtigoIJPP.pdf
 
